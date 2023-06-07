@@ -3,6 +3,7 @@
   "version": "1.0",
   "description": "Hacklah submission.",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
