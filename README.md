@@ -4,7 +4,7 @@
 <!-- PROJECT IMAGES -->
 # WasteWise
 
-WasteWise is a Revolutionary waste management Web Application with AI-powered recycling solutions. WasteWise uses Computer Vision to scan and classify the waste items. Leveraging geolocation services, the web app locates the nearest recycling points, e-waste collection or second hand stores, making waste disposal convenient and efficient. 
+WasteWise is a waste management Web Application with AI-powered recycling solutions. WasteWise uses Computer Vision to scan and classify the waste items. Leveraging geolocation services, the web app locates the nearest recycling points, e-waste collection or second hand stores, making waste disposal convenient and efficient. 
 
 ![ezgif com-optimize](https://github.com/thisisanenigma/WasteWise/assets/106053582/f9627808-9b18-41bf-aef1-cf7ca9a61288)
 
