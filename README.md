@@ -2,6 +2,7 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT IMAGES -->
+![ezgif com-optimize](https://github.com/thisisanenigma/WasteWise/assets/106053582/716eebda-84cd-4317-aad3-b24aae6a74ff)
 
 
 
